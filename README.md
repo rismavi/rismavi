@@ -56,6 +56,19 @@ ideas into practical projects.
 
 ---
 
+## 🎵 Spotify Recently Played
+
+<div align="center">
+
+<img
+  src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31lrb3736vzelbzcbwmiojol62oa"
+  alt="Spotify Recently Played"
+/>
+
+</div>
+
+---
+
 # 🛠️ Tech Arsenal
 
 ### 💻 Languages
